@@ -1,7 +1,7 @@
 MyFirstSVGTest
 ==============
 
-Basically a working version of the example from the svg-android tutorial
+Basically a working version of the example from the svg-android [tutorial](https://code.google.com/p/svg-android/wiki/Tutorial).
 
 The sample is build in Android Studio with the svg-android library included in the lib folder and the nice Android 
 logo graphics as a SVG file.
